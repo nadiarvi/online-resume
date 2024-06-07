@@ -1,15 +1,15 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Nadia Azzahra Putri Arvi                       # name
+  title:            # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: Daejeon, South Korea # location
+  email: nadia.arvi@gmail.com    # email address
+  phone: +82-10-5118-8177 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github: nadiarvi                  # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -53,13 +53,13 @@ contact:
   wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
 
   # designer
-  figma:                   # username          | https://www.figma.com/@username
-  behance:                 # username          | https://www.behance.net/username
+  figma: nadiaarvi                   # username          | https://www.figma.com/@username
+  behance: nadiaarvi                # username          | https://www.behance.net/username
   dribble:                 # username          | https://dribbble.com/username
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
+  linkedin: nadiarvi                # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -83,9 +83,11 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Hello everyone! I'm Nadia, a junior undergraduate student majoring in Computer Science at KAIST.
+    My academic journey is driven by a deep passion for Human-Computer Interactions, propelling me into the realms of Natural Language Processing (NLP) and data visualization.
+    In my exploration, I've been experimenting with projects that leverages AI and big data to enhance user experiences and solve complex problems.
+    I am enthusiastic about opportunities to further hone my expertise at the intersection of Big Data, AI, and Human-Computer Interactions, eager to expand my skills in this dynamic field.
+    I am also experienced in UI/UX design, and you can check out my portfolio on my Behance!
 
 experience:
   show: true
