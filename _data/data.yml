@@ -122,7 +122,7 @@ project:
         Designed and developed the UI/UX interactions and implemented the front end using React Native, incorporating the i18n module for language localization.
         + Tech stacks: React Native, Django
 
-    - name: Optimizing Dialogue System:  Integrating Enhanced Clustering and Quality-Aware Training for Response Diversity.
+    - name: Optimizing Dialogue System -- Integrating Enhanced Clustering and Quality-Aware Training for Response Diversity.
       link:
       tags: 
       date: March 2024 - June 2024
