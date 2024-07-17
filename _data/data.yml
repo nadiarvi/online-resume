@@ -87,7 +87,7 @@ profile:
     My academic journey is driven by a deep passion for Human-Computer Interactions, propelling me into the realms of Natural Language Processing (NLP) and data visualization.
     In my exploration, I've been experimenting with projects that leverages AI and big data to enhance user experiences and solve complex problems.
     I am enthusiastic about opportunities to further hone my expertise at the intersection of Big Data, AI, and Human-Computer Interactions, eager to expand my skills in this dynamic field.
-    I am also experienced in UI/UX design, and you can check out my portfolio on my Behance!
+    I am also experienced in UI/UX design, and you can check out my portfolio on my <a href="https://www.behance.net/nadiarvi" style="color:steelblue;">Behance</a>!
 
 experience:
   show: true
@@ -104,7 +104,7 @@ experience:
       role: Undergraduate Researcher
       location: Daejeon, South Korea
       description: |
-        + Train and fine-tune LLM for diary summarization and insight extraction
+        + Developed the front-end of the Diary mobile application using React Native
 
 project:
   show: true
