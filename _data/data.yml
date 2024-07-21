@@ -10,7 +10,7 @@ contact:
   location: Daejeon, South Korea # location
   email: nadia.arvi@gmail.com    # email address
   phone: +82-10-5118-8177 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
