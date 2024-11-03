@@ -83,11 +83,11 @@ profile:
   order: 1
   title: Profile
   description: |
-    Hello everyone! I'm Nadia, a junior undergraduate student majoring in Computer Science at KAIST.
-    My academic journey is driven by a deep passion for Human-Computer Interactions, propelling me into the realms of Natural Language Processing (NLP) and data visualization.
-    In my exploration, I've been experimenting with projects that leverages AI and big data to enhance user experiences and solve complex problems.
-    I am enthusiastic about opportunities to further hone my expertise at the intersection of Big Data, AI, and Human-Computer Interactions, eager to expand my skills in this dynamic field.
-    I am also experienced in UI/UX design, and you can check out my portfolio on my <a href="https://www.behance.net/nadiarvi" style="color:steelblue;">Behance</a>!
+    Hello! I’m Nadia, a senior Computer Science student at KAIST with a strong passion for Human-Computer Interaction.
+    I like to immerse myself in projects that blend ML, AI, software development, and UI/UX design, continually honing my creative and technical skills to craft effective solutions in the field.
+    I’m eager to continue deepening my expertise through a balance of innovative research and practical, real-world applications.
+    For my design portfolio, you can check it out on <a href="https://www.behance.net/nadiarvi" style="color:steelblue;">Behance</a>!
+
 
 experience:
   show: true
@@ -100,24 +100,50 @@ experience:
     - company: KAIST Interactive Computing Lab
       link: https://ic.kaist.ac.kr/
       tags: Internship
-      date: 2024.07 - 2024.09
+      date: 2024.07 - Present
       role: Undergraduate Researcher
       location: Daejeon, South Korea
       description: |
-        + Developed the front-end of the Diary mobile application using React Native
+        + Explored the utilization of LLM for users’ emotion classification using Plutchik’s Wheel Model and aiding users for guided emotion reflection for a period of time.
+        + Responsible for developing the front-end of the mobile application using React Native and prompt enginered the back-end using OpenAI API.
+    
+    - company: Daewoong Foundation
+      link: 
+      tags: Internship, Scholarship Awardee
+      date: 2024.02 - Present
+      role: Software Engineer Intern, UI/UX Designer
+      location: Remote
+      description: |
+        + Designed the company’s internal content creation platform targeted for the company’s stakeholders.
+        + Built an automated company-wide mailing system to deliver updates on health regulatory guideline using Selenium and Python.
 
 project:
   show: true
   order: 3
   title: Projects
   description: |
-    My past projects encompasses a balanced combination of AI/ML projects and UI/UX and front-end development projects.
     
   items:
+    - name: LLM-based Mobile Diary Application
+      link: '#'
+      tags: 
+      date: July 2024 -- Present
+      description: |
+        Explored the utilization of LLM for users’ emotion classification using Plutchik’s Wheel Model and aiding users for guided emotion reflection for a period of time.
+        + Tech stacks: React Native, OpenAI
+
+    - name: Teachable Agents for Programming Concept Studying
+      link: '#'
+      tags: <a href="https://github.com/SirCollypso/feynman" style="color:steelblue;">GitHub</a>
+      date: October 2024 -- November 2024
+      description: |
+        Designed and implemented a chatbot interface based on the ”Learning by Teaching” method to support users in recalling and reinforcing programming concepts.
+        + Tech stacks: ReactJS, OpenAI, NodeJS
+
     - name: BookSwap -- Book Exchange Mobile Application
       link: '#'
       tags: <a href="https://github.com/hotmandu/CS350-BookSwap-Frontend" style="color:steelblue;">GitHub</a>
-      date: April 2023 -- Present
+      date: April 2024 -- Present
       description: |
         Designed and developed the UI/UX interactions and implemented the front end using React Native, incorporating the i18n module for language localization.
         + Tech stacks: React Native, Django
@@ -207,10 +233,13 @@ skill:
         - Figma
         - Illustrator
         - Premiere Pro
-    - name: Workframe
+    - name: Workframe and Libraries
       item:
         - Pytorch
         - ReactJS
+        - React Native
+        - NodeJS
+        - OpenAI
 
 education:
   show: true
@@ -288,11 +317,6 @@ award:
   order: 8
   title: Awards
   description: |
-    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
-
-    When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
-
-    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
 
   items:
     - name: Example Awared One
