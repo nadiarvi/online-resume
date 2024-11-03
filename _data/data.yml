@@ -137,7 +137,7 @@ project:
       tags: <a href="https://github.com/SirCollypso/feynman" style="color:steelblue;">GitHub</a>
       date: October 2024 -- November 2024
       description: |
-        Designed and implemented a chatbot interface based on the ”Learning by Teaching” method to support users in recalling and reinforcing programming concepts.
+        Designed and implemented a chatbot interface based on the ”Learning by Teaching” method to support users in recalling and reinforcing programming concepts. Utilized OpenAI API as a teachable agents, with attempts to control the agent's behavior using prompt engineering.
         + Tech stacks: ReactJS, OpenAI, NodeJS
 
     - name: BookSwap -- Book Exchange Mobile Application
@@ -155,14 +155,6 @@ project:
       description: |
         Enhanced the baseline method [DRESS](https://aclanthology.org/2022.findings-emnlp.66/) for semantic diversifying training in open-domain question-answer generation. Achieved higher scores on the human preferences metric ([UniEval](https://arxiv.org/abs/2210.07197)) while maintaining the semantic diversity score compared to the baseline method.
         + Tech stacks: Python, PyTorch
-        
-    - name: Drugs Regulatory Guideline Scraping
-      link:
-      tags: 
-      date: April 2024
-      description: |
-        Scraped guidelines from various health regulatory websites.
-        + Tech stacks: Scrapy, PythonFirst
 
     - name: Stocks Data Visualization
       link: https://github.com/nadiarvi/stocks-visualization
