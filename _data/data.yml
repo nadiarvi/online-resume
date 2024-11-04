@@ -125,7 +125,7 @@ project:
     
   items:
     - name: LLM-based Mobile Diary Application
-      link: '#'
+      link: 
       tags: 
       date: July 2024 -- Present
       description: |
@@ -133,7 +133,7 @@ project:
         + Tech stacks: React Native, OpenAI
 
     - name: Teachable Agents for Programming Concept Studying
-      link: '#'
+      link: 'https://github.com/SirCollypso/feynman'
       tags: <a href="https://github.com/SirCollypso/feynman" style="color:steelblue;">GitHub</a>
       date: October 2024 -- November 2024
       description: |
@@ -141,7 +141,7 @@ project:
         + Tech stacks: ReactJS, OpenAI, NodeJS
 
     - name: BookSwap -- Book Exchange Mobile Application
-      link: '#'
+      link: 'https://github.com/hotmandu/CS350-BookSwap-Frontend'
       tags: <a href="https://github.com/hotmandu/CS350-BookSwap-Frontend" style="color:steelblue;">GitHub</a>
       date: April 2024 -- Present
       description: |
